@@ -18,5 +18,5 @@ This script can be modified for to fit custom workflow needs. The workflow used 
 4. Asks the user to drag the path for the artist-provided drive. This can be a flash drive, external hard drive, CD, DVD, or Blu-Ray. 
 5. Asks the user to drag the path for the digital repository. This is where artwork video files and other artwork assets live.
 6. Files from the artist drive are transferred to the digital repository preserving the contents' file structure of the artist drive.
-7. Metadata is captured and written to the Artwork folder > Conservation > Condition Reports folder. This includes mediainfo reports and framemd5s that capture the checksum for each frame of video. This may take a while to capture.
+7. Metadata is captured and written to the Artwork folder > Conservation > Condition Reports folder. This includes mediainfo reports, artist drive file tree, ingest log, and framemd5s that capture the checksum for each frame of video. This may take a while to capture depending on the file size of the videos.
 8. Checksums are verified between the artist drive contents and digital repository contents. If the script verifies that the md5 checksums match, it will write the checksum to the Artwork folder > Conservation > Condition Reports folder.
