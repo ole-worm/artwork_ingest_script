@@ -2,12 +2,12 @@
 This bash script can be used by time-based media conservators and video preservation professionals. It will prompt the user to ingest digital video files and verify file fixity. This script is only compatible with MacOS.
 
 How to download and set up:
-Download ingest_automation.sh from this repository and save it anywhere.
-In a MacOS terminal type: run chmod u+x 
-Then drag and drop the ingest_automation.sh file you downloaded into terminal and press enter. It should look like: thealy1 ~ % run chmod u+x /Users/thealy1/Downloads/ingest_automation.sh 
-Then, type: ./Users/thealy1/Downloads/ingest_automation.sh 
-It is ready to go for its first ingest!
-When you want to use the script, just drag and drop the ingest_automation.sh into a terminal window and it will begin.
+1. Download ingest_automation.sh from this repository and save it anywhere.
+2. In a MacOS terminal type: run chmod u+x
+3. Then drag and drop the ingest_automation.sh file you downloaded into terminal and press enter. It should look like: thealy1 ~ % run chmod u+x /Users/thealy1/Downloads/ingest_automation.sh
+4. Then, type: ./Users/thealy1/Downloads/ingest_automation.sh
+5. It is ready to go for its first ingest!
+6. When you want to use the script in the future, just drag and drop the ingest_automation.sh into a terminal window and it will begin.
 
 
 This script can be modified for to fit custom workflow needs. The workflow used in this script is as follows:
