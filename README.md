@@ -9,6 +9,8 @@ How to download and set up:
 5. It is ready to go for its first ingest!
 6. When you want to use the script in the future, just drag and drop the ingest_automation.sh into a terminal window and it will begin.
 
+   Dependencies include: homebrew, ffmpeg, mediainfo, rsync.
+
 
 This script can be modified for to fit custom workflow needs. The workflow used in this script is as follows:
 
