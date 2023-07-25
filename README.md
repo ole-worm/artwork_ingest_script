@@ -20,3 +20,4 @@ This script can be modified for to fit custom workflow needs. The workflow used 
 6. Files from the artist drive are transferred to the digital repository preserving the contents' file structure of the artist drive.
 7. Metadata is captured and written to the Artwork folder > Conservation > Condition Reports folder. This includes mediainfo reports, artist drive file tree, ingest log, and framemd5s that capture the checksum for each frame of video. This may take a while to capture depending on the file size of the videos.
 8. Checksums are verified between the artist drive contents and digital repository contents. If the script verifies that the md5 checksums match, it will write the checksum to the Artwork folder > Conservation > Condition Reports folder.
+9. The user will need to go back into the transferred files and metadata to rename them accordingly after the cataloguing worksheet is complete.
